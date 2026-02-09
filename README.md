@@ -1,5 +1,5 @@
 # **The Echoes of Aethere: Book 1 - The Cloud Harvester**
-![The Windrunner](video_production/concept_art/The_Windrunner.png)
+![The Windrunner](video_production/concept_art/The_Windrunner.png) ![Elara Vance](video_production/concept_art/Elara_Vance.png)
 
 > *"They told us the world died. They lied."*
 
