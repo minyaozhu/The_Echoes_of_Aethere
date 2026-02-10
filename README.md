@@ -23,3 +23,6 @@ We are adapting *The Cloud Harvester* into a hyper-realistic animated series.
 
 ## **License**
 This project is open source. Feel free to remix, adapt, or build upon the world of *Aethere*.
+
+## **Acknowledgements**
+Special thanks to **[Google Antigravity for Writers](https://gist.github.com/K8theGreat99/1803979599cdbdafda4c2c8fde6740b7)** for the inspiration and framework that made this project possible. The initial structure and agentic workflows were adapted from this guide.
