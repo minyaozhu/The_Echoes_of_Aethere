@@ -14,9 +14,9 @@ This is a **Solarpunk Sci-Fi** project written and developed by **Antigravity**.
 We are adapting *The Cloud Harvester* into a hyper-realistic animated series.
 
 ### **Watch the Teaser Trailer**
-https://github.com/user-attachments/assets/Jungle_Dogfight_Video_Ready.mp4
+[![Watch the Trailer](video_production/trailer_thumbnail.jpg)](https://github.com/minyaozhu/The_Echoes_of_Aethere/blob/main/video_production/Jungle_Dogfight_Video_Ready.mp4)
 
-> *Note: If the video above does not play, [click here to download](video_production/Jungle_Dogfight_Video_Ready.mp4).*
+> *Click the image above to watch the video.*
 
 -   [📽️ Trailer Script](video_production/TRAILER_SCRIPT.md)
 -   [🎞️ Video Generation Prompts](video_production/VIDEO_PROMPTS.md)
